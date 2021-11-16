@@ -17,6 +17,7 @@ body {
 i {
   color: blue;
   font-size: 1.1rem;
+  font-weight: italic;
 }
 h1 {
   display: inline-block;
